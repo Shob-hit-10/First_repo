@@ -15,4 +15,4 @@ const anotherString= gameName.slice(-8,4)
 console.log(anotherString);
 
 const url = "https://shobhit.com/shobhit%20kumar"
-console.log(url.replace('%20', '-'));
+console.log(url.replace('%20', '-')) ;
