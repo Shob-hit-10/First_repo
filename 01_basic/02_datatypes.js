@@ -20,3 +20,15 @@ let isLoggedIn=false
 
 console.log(typeof null)    //object
 console.log(typeof undefined)    //undefined
+
+
+const array=["hello","world"];
+let myObj={
+    name:"Shobhit",
+    age: 22,
+}
+
+const myFunction=function(){
+    console.log("Hello");
+}
+
